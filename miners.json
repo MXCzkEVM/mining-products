@@ -4,7 +4,7 @@
       "title": "M2Pro Miner",
       "subtitle": "The world's first zkEVM Radio miners that can validate real-world locations",
       "describe": "Introducing the world's inaugural IoT Radio miner, equipped with cutting-edge SX1303 chips. This innovative technology facilitates Time Difference of Arrival (TDOA) network-based geolocation, optimizing the performance for MXC zkEVM hexagons.",
-      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner.jpg",
+      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner.webp",
       "limited": false,
       "priceUSDT": "2900.28",
       "link": "https://www.matchx.io/"
@@ -13,7 +13,7 @@
       "title": "NEO Miner",
       "subtitle": "The world's first zkEVM Radio miners that can validate real-world locations",
       "describe": "Introducing the world's inaugural IoT Radio miner, equipped with cutting-edge SX1301 chips. This innovative technology facilitates Time Difference of Arrival (TDOA) network-based geolocation, optimizing the performance for MXC zkEVM hexagons.",
-      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner2.jpg",
+      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner2.webp",
       "limited": false,
       "priceUSDT": "500.28",
       "link": "https://www.matchx.io/"
@@ -22,7 +22,7 @@
       "title": "Bobber Miner",
       "subtitle": "Compatible with HNT network",
       "describe": "Works with Bobber app and its own network",
-      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner3.jpg",
+      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner3.webp",
       "limited": false,
       "priceUSDT": "500.28",
       "link": "https://shop.bobber.com/products/bobcat-miner-300"
