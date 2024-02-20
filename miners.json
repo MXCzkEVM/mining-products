@@ -5,6 +5,8 @@
       "subtitle": "The world's first zkEVM Radio miners that can validate real-world locations",
       "describe": "Introducing the world's inaugural IoT Radio miner, equipped with cutting-edge SX1303 chips. This innovative technology facilitates Time Difference of Arrival (TDOA) network-based geolocation, optimizing the performance for MXC zkEVM hexagons.",
       "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner.jpg",
+      "limited": false,
+      "priceUSDT": "29.28",
       "link": "https://www.mxc.org/"
     }
   ],
