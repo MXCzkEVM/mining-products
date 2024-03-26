@@ -17,15 +17,6 @@
       "limited": false,
       "priceUSDT": "500.28",
       "link": "https://www.matchx.io/"
-    },
-    {
-      "title": "Bobber Miner",
-      "subtitle": "Compatible with HNT network",
-      "describe": "Works with Bobber app and its own network",
-      "image": "https://raw.githubusercontent.com/MXCzkEVM/mining-products/main/images/image-miner3.webp",
-      "limited": false,
-      "priceUSDT": "500.28",
-      "link": "https://shop.bobber.com/products/bobcat-miner-300"
     }
   ],
   "de": [],
